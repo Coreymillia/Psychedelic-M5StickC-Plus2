@@ -1,0 +1,4 @@
+#!/bin/bash
+# Quick launcher for screensaver manager
+cd "$(dirname "$0")"
+python3 screensaver_manager.py "$@"

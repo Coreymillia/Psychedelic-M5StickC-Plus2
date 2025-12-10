@@ -1,0 +1,23 @@
+{
+  "name": "Psychedelic M5 Screensavers",
+  "category": "Entertainment",
+  "description": "🌈 Ultimate collection of 28 mesmerizing screensavers including mathematical visualizations, fractals, particle effects, and psychedelic animations. Features Digital Dreams consciousness visualization, classic plasma effects, walking shapes, and advanced flow fields.",
+  "image": "preview.png",
+  "author": "Psychedelic M5 Team",
+  "website": "https://github.com/psychedelic-m5/screensavers",
+  "target": "StickC Plus2",
+  "versions": [
+    {
+      "version": "v1.0",
+      "minver": "1.0.0",
+      "description": "Ultimate collection of 28 psychedelic screensavers for M5StickC Plus2. Basic button navigation.",
+      "path": "Psychedelic-M5v1.0.bin"
+    },
+    {
+      "version": "v1.1", 
+      "minver": "1.0.0",
+      "description": "Enhanced version with advanced 3-button controls and 10-level speed adjustment. Full navigation and speed control.",
+      "path": "Psychedelic-M5v1.1.bin"
+    }
+  ]
+}
