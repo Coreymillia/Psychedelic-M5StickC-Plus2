@@ -240,4 +240,4 @@ Transform your M5StickC Plus2 into a **professional visual computing device** wi
 This project adapts visual effects from **XScreenSaver**, created and maintained by Jamie Zawinski  
 ([jwz.org/xscreensaver](https://www.jwz.org/xscreensaver)).
 
-**Built with ❤️ by the XScreens Development Team**
+
